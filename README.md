@@ -1,4 +1,7 @@
-## Hi there 👋
+## Alex William ##
+
+** Alex William Gomes da Silva, tenho 16 anos. **
+** Estu me desenvolvendo em diversas áreas da Tecnologia da Informática. **
 
 **AlexWilliamSilva/AlexWilliamSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
