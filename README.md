@@ -8,3 +8,4 @@ Estou me desenvolvendo em diversas áreas da Tecnologia da Informática.
 ![AlexWilliamSilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWilliamSilva&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWilliamSilva&layout=compact&theme=dark)
  
+![nomedogif](caminhodoseurepocomseunome)
