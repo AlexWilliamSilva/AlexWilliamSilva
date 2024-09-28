@@ -83,5 +83,3 @@ Administração de redes
 
 ## Idiomas ##
 Português brasileiro
-
-**AlexWilliamSilva/AlexWilliamSilva**
