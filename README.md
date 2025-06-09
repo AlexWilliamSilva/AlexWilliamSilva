@@ -69,7 +69,6 @@ SQL
 
 MySQL
 
-Banco de dados
 
 ## Design e Desenvolvimento Web ##
 Web design
@@ -81,7 +80,6 @@ Administração de Redes
 
 Redes de computadores
 
-Administração de redes
 
 ## Idiomas ##
 Português brasileiro
