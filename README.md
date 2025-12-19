@@ -8,7 +8,7 @@
 ![Signin](https://github.com/user-attachments/assets/6180035b-e587-404d-a377-e9e090bdfaa4)
 
 
-Alex William Gomes da Silva, tenho 17 anos.
+Alex William Gomes da Silva, tenho 18 anos.
 Estou me desenvolvendo em diversas áreas da Tecnologia da Informática. 
 Competências:
 
