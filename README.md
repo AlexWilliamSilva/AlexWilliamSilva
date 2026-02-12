@@ -4,8 +4,8 @@
 
 ![Signin](https://github.com/user-attachments/assets/6180035b-e587-404d-a377-e9e090bdfaa4)
 
+Olá! Meu nome é Alex Silva, tenho 18 anos e curso Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Sou formado como Técnico em Informática pelo SENAC e tenho interesse em desenvolvimento de sistemas, aplicações multiplataforma e em aprender constantemente novas tecnologias.
 
-Alex William Gomes da Silva, tenho 18 anos. 
 Competências:
 
 ## Competências em Ferramentas ##
