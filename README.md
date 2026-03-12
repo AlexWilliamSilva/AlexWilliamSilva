@@ -28,3 +28,5 @@ Olá! Meu nome é Alex Silva, tenho 18 anos e curso Desenvolvimento de Software 
 
 ## Idiomas ##
 Português brasileiro (Fluente)
+
+![Alex Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWilliamSilva&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWilliamSilva&layout=donut)]()
